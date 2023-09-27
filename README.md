@@ -1,10 +1,7 @@
 ## StudioGhibli
 Ferramentas utilizadas para o projeto:
 
-<div height="10px">
-  ![2165004](https://github.com/Paivaas/StudioGhibli/assets/123731976/e582e028-8498-4031-be7e-ffe813f5df3d)
   - [API](https://ghibliapi.vercel.app/)
-</div>
 
 
 - [FIGMA](https://www.figma.com/file/Wit1TMZuRWQVbYGNrZJ4tp/Page-Studio-Ghibli?type=design&node-id=0-1&mode=design&t=aiSyrRLgLVOVH6vs-0)
