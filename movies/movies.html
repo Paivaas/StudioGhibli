@@ -6,43 +6,44 @@
     <link rel="stylesheet" href="./style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
     <link rel="icon" href="./img/icon.gif">
+    <script src="node.js" defer></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <title>Movies</title>
 </head>
 <body>
 
     <header>
-        <nav>
-            <div class="part1">
-               
-                <div class="part1-sub1">
-                    <img src="./img/LogoStudioGhibli.svg" height="100px" alt="">
-                    <div class="imgPoeira"></div>
-                    <h1>Movies</h1>
-                </div>
-
-                <div class="part1-sub2">
-                    <div class="searchMovies">
-                        <i class="bi bi-search"></i>
-                        <input placeholder="Search movies.." type="text"> 
-                    </div>
-                </div>
-                
+        <div class="conteiner1">
+            <div class="start">
+                <img  class="logo" src="./img/LogoStudioGhibli.svg" alt="Logo">
+                <h1>Movies</h1>
             </div>
+            <div class="imgPoeira"></div>
             
-            <div class="part2">
-                <div class="imgTotoro"></div>
+        </div>
+        <div class="conteiner2">
+            <div class="searchMovies">
+                <i class="bi bi-search"></i>
+                <input placeholder="Search movies.." type="text"> 
             </div>
-        </nav>
+        </div>
+        <div class="conteiner3">
+            <img class="imgTotoro" src="./img/ArvoreTotoro.svg">
+        </div>
+   
     </header>
 
     <main>
-        <div class="slide">
-            <!-- <div class="item"></div>
+        <section>
+            <i class="bi bi-caret-left"></i>
             <div class="item"></div>
-            <div class="item"></div> -->
-        </div>
+            <div class="item central"></div>
+            <div class="item"></div>
+            <i class="bi bi-caret-right"></i>
+        </section>
+
     </main>
+
     
 </body>
 </html>
