@@ -8,14 +8,22 @@ Sobre o Projeto |
 Porque essa API|
 
  <details><summary>#### Check-List - Projeto final:</summary> 
+  <div>
+   - [x] Page 1 - Landing Page.
+- [x] Page 2 - Movies.
+- [ ] Page 3 - Characters.
+- [ ] API.
+- [ ] Responsividade.
+- [ ] Documentação README.md.
+- [x] Git Pages   </details>
+  </div>
 - [x] Page 1 - Landing Page.
 - [x] Page 2 - Movies.
 - [ ] Page 3 - Characters.
 - [ ] API.
 - [ ] Responsividade.
 - [ ] Documentação README.md.
-- [x] Git Pages   </details>|
-ritjirtrt|
+- [x] Git Pages   </details>
 
   
 #### Check-List - Projeto final:
