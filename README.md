@@ -3,9 +3,10 @@ Ferramentas utilizadas para o projeto:
 - [API: StudioGhibli](https://ghibliapi.vercel.app/)
 - [FIGMA: Desing](https://www.figma.com/file/Wit1TMZuRWQVbYGNrZJ4tp/Page-Studio-Ghibli?type=design&node-id=0-1&mode=design&t=aiSyrRLgLVOVH6vs-0)
 
-teste |
-------|
-Porque essa API|
+Sobre o Projeto |
+----------------|
+Porque essa API| 
+<details><summary>Calculadoras</summary> <ul> <li>Projeto 1 - Minha Calculadora.</li> <li>Projeto 2 - Calculadora do Prof Marcel.</li> </ul> </details>|
 
 
 
