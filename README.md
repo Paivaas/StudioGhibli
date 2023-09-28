@@ -10,7 +10,7 @@ Ferramentas utilizadas para o projeto:
     <li>[ ] Page 3 - Characters.</li>
     <li>[ ] API.</li>
     <li>[ ] Responsividade.</li>
-    <li>[] Documentação README.md.</li>
+    <li>[ ] Documentação README.md.</li>
     <li> [x] Git Pages  </li>
   </ul>
 </details>
