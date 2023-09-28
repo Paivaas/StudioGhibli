@@ -5,10 +5,17 @@ Ferramentas utilizadas para o projeto:
 
 Sobre o Projeto |
 ----------------|
-Porque essa API| <details><summary>Calculadoras</summary> <li>Projeto 2 - Calculadora do Prof Marcel.</li>  </details>|
+Porque essa API|
+
+ <details><summary>#### Check-List - Projeto final:</summary> 
+- [x] Page 1 - Landing Page.
+- [x] Page 2 - Movies.
+- [ ] Page 3 - Characters.
+- [ ] API.
+- [ ] Responsividade.
+- [ ] Documentação README.md.
+- [x] Git Pages   </details>|
 ritjirtrt|
-
-
 
   
 #### Check-List - Projeto final:
