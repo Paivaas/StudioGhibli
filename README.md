@@ -3,29 +3,6 @@ Ferramentas utilizadas para o projeto:
 - [API: StudioGhibli](https://ghibliapi.vercel.app/)
 - [FIGMA: Desing](https://www.figma.com/file/Wit1TMZuRWQVbYGNrZJ4tp/Page-Studio-Ghibli?type=design&node-id=0-1&mode=design&t=aiSyrRLgLVOVH6vs-0)
 
-Sobre o Projeto |
-----------------|
-Porque essa API|
-
- <details><summary>#### Check-List - Projeto final:</summary> 
-  <div>
-   - [x] Page 1 - Landing Page.
-- [x] Page 2 - Movies.
-- [ ] Page 3 - Characters.
-- [ ] API.
-- [ ] Responsividade.
-- [ ] Documentação README.md.
-- [x] Git Pages   </details>
-  </div>
-- [x] Page 1 - Landing Page.
-- [x] Page 2 - Movies.
-- [ ] Page 3 - Characters.
-- [ ] API.
-- [ ] Responsividade.
-- [ ] Documentação README.md.
-- [x] Git Pages   </details>
-
-  
 #### Check-List - Projeto final:
 - [x] Page 1 - Landing Page.
 - [x] Page 2 - Movies.
