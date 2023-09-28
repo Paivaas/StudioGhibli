@@ -9,6 +9,7 @@ Ferramentas utilizadas para o projeto:
 - [ ] Page 3 - Characters.
 - [ ] API.
 - [ ] Responsividade.
+- [ ] Documentação README.md.
 
 
 ------------------
