@@ -1,7 +1,7 @@
 ## StudioGhibli
 Ferramentas utilizadas para o projeto:
-- [API](https://ghibliapi.vercel.app/)
-- [FIGMA](https://www.figma.com/file/Wit1TMZuRWQVbYGNrZJ4tp/Page-Studio-Ghibli?type=design&node-id=0-1&mode=design&t=aiSyrRLgLVOVH6vs-0)
+- [API StuduiGhibli](https://ghibliapi.vercel.app/)
+- [FIGMA Desing Completo](https://www.figma.com/file/Wit1TMZuRWQVbYGNrZJ4tp/Page-Studio-Ghibli?type=design&node-id=0-1&mode=design&t=aiSyrRLgLVOVH6vs-0)
   
 #### Check-List - Projeto final:
 - [x] Page 1 - Landing Page.
