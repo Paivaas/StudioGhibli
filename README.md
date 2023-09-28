@@ -6,7 +6,8 @@ Ferramentas utilizadas para o projeto:
 Sobre o Projeto |
 ----------------|
 Porque essa API| 
-<details><summary>Calculadoras</summary> <ul> <li>Projeto 1 - Minha Calculadora.</li> <li>Projeto 2 - Calculadora do Prof Marcel.</li> </ul> </details>|
+<details><summary>Calculadoras</summary> <li>Projeto 2 - Calculadora do Prof Marcel.</li>  </details>|
+ritjirtrt|
 
 
 
