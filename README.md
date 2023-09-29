@@ -6,6 +6,7 @@ Ferramentas utilizadas para o projeto:
   <ul> 
     <li>[x] Page 1 - Landing Page.</li>
     <li>[x] Page 2 - Movies..</li>
+    <li>[x] Page 2 - Carrossel </li>
     <li>[ ] Page 3 - Characters.</li>
     <li>[ ] API.</li>
     <li>[ ] Responsividade.</li>
