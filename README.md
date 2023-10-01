@@ -1,6 +1,6 @@
 ## StudioGhibli
 Ferramentas utilizadas para o projeto:
-![1f6e0](https://github.com/Paivaas/StudioGhibli/assets/123731976/127c7857-8cea-4282-8a32-7052ec64ed6b)<?xml version="1.0" encoding="utf-8"?>
+![1f6e0](https://github.com/Paivaas/StudioGhibli/assets/123731976/127c7857-8cea-4282-8a32-7052ec64ed6b)<?xml height="10px" version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1_copy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
