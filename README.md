@@ -1,5 +1,4 @@
-![ee86ed57ae0052632d4586c53a9a681f](https://github.com/Paivaas/StudioGhibli/assets/123731976/936f641c-c546-4aa8-9172-ef4719ee3ddf)
-# StudioGhibli
+<img height="35" src="https://jenessa-reika.ca/wp-content/uploads/2020/04/miyazaki1-600x600.png"> # StudioGhibli
 
 ### Base do projeto 
 - [API: StudioGhibli](https://ghibliapi.vercel.app/)
