@@ -1,4 +1,4 @@
-#StudioGhibli
+# StudioGhibli
 Ferramentas utilizadas para o projeto:
 
 - [API: StudioGhibli](https://ghibliapi.vercel.app/)
