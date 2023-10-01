@@ -8,7 +8,7 @@
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="34" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
+<code><img height="33" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
 
 <details><summary>Check-List - Projeto final:</summary> 
   <ul> 
