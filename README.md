@@ -1,5 +1,7 @@
 ## StudioGhibli
 Ferramentas utilizadas para o projeto:
+![20210811204142!Studio_Ghibli_P_icon](https://github.com/Paivaas/StudioGhibli/assets/123731976/e76b639c-defc-4c0f-a05a-4582b4b86cda)
+
 - [API: StudioGhibli](https://ghibliapi.vercel.app/)
 - [FIGMA: Desing](https://www.figma.com/file/Wit1TMZuRWQVbYGNrZJ4tp/Page-Studio-Ghibli?type=design&node-id=0-1&mode=design&t=aiSyrRLgLVOVH6vs-0)
 <details><summary>Check-List - Projeto final:</summary> 
