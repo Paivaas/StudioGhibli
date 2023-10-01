@@ -1,10 +1,10 @@
-## StudioGhibli
+# StudioGhibli
 
 ## Base do projeto 🛠️
 - [API: StudioGhibli](https://ghibliapi.vercel.app/)
 - [FIGMA: Desing](https://www.figma.com/file/Wit1TMZuRWQVbYGNrZJ4tp/Page-Studio-Ghibli?type=design&node-id=0-1&mode=design&t=aiSyrRLgLVOVH6vs-0)
 
-### Linguagens e ferramentas: 🛠️
+## Linguagens e ferramentas: 🛠️
 
 
 <details><summary>Check-List - Projeto final:</summary> 
