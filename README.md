@@ -16,9 +16,11 @@ Ferramentas utilizadas para o projeto:
   </ul>
 </details>
 
+<!--
 ```shell
 git clone 
 ```
+-->
 
 # Contribute
 [(Back to top)](#table-of-contents)
