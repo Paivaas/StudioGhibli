@@ -1,4 +1,4 @@
-## StudioGhibli
+#StudioGhibli
 Ferramentas utilizadas para o projeto:
 
 - [API: StudioGhibli](https://ghibliapi.vercel.app/)
@@ -23,7 +23,7 @@ git clone
 -->
 
 # Contribute
-[(Back to top)](#table-of-contents)
+[(Back to top)](#StudioGhibli)
 
 ------------------
 ![ApresentaçãoSiteStudioGhibli](https://github.com/Paivaas/StudioGhibli/assets/123731976/bc9c63e7-3a6a-46ef-802c-e9f5ea21cd89)
