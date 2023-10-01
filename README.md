@@ -1,3 +1,4 @@
+![ee86ed57ae0052632d4586c53a9a681f](https://github.com/Paivaas/StudioGhibli/assets/123731976/936f641c-c546-4aa8-9172-ef4719ee3ddf)
 # StudioGhibli
 
 ### Base do projeto 
