@@ -1,4 +1,4 @@
-# StudioGhibli <img height="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMRUgsJochc09g5S4gAfUD6Q1awwTvCLNKcp9nl1gAQVTH-L5ZXOtF2jflrtqzzXtE3M&usqp=CAU">
+<img height="88px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMRUgsJochc09g5S4gAfUD6Q1awwTvCLNKcp9nl1gAQVTH-L5ZXOtF2jflrtqzzXtE3M&usqp=CAU">
 
 ### Base do projeto 
 - [API: StudioGhibli](https://ghibliapi.vercel.app/)
