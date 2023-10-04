@@ -6,7 +6,7 @@
 > Bem-vindo ao Studio Ghibli Movie ✿
 
 
-Esse projeto criado para fornecer uma expericnia informativa sobre os filmes do Studio Ghibli. Aqui os usuarios podem descobrir mais sobre suas animações favoritas, mergulhe na magia criativa deste renomado estúdio japonês.
+Esse projeto foi criado para fornecer uma expericnia informativa sobre os filmes do Studio Ghibli. Aqui os usuarios podem descobrir mais sobre suas animações favoritas, mergulhe na magia criativa deste renomado estúdio japonês.
 
 
 #### Funcionalidades 
