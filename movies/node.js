@@ -1,45 +1,28 @@
- fetch('https://ghibliapi.vercel.app/films').then(response => response.json()).then(dados => {
-    console.log(dados);
+const url = 'https://ghibliapi.vercel.app';
 
-    async function pegarCep(){
-        const url = `https://ghibliapi.vercel.app/films`
-        const response = await fetch(url)
-        const dadosFilme = await response.json()
-        return dadosFilme
-    }
-    
-    async function preencherCampos(){
-    
-        const titulo = document.getElementById('h1')
-        const bairro = document.getElementById('bairro')
-        const cidade = document.getElementById('cidade')
-        const estado = document.getElementById('estado')
-        
-        const dados = await pegarCep(dadosFilme.value)
-    
-        titulo.value = dados.logradouro
-        bairro.value = dados.bairro
-        cidade.value = dados.localidade
-        estado.value = dados.uf
-    }
-  });
+const filmsBusca = '/films';
 
-const button = document.getElementById('btn')
-button.addEventListener('click', preencherCampos)
+const filmsList = document.getElementById('films-list');
 
-async function pegarCep(){
-    const url = `https://ghibliapi.vercel.app/films`
-    const response = await fetch(url)
-    const dadosFilme = await response.json()
-    return dadosFilme
-}
+fetch(url + filmsBusca)
+  .then(response => {
+    return response.json();
+  })
+  .then(films => {
+    films.forEach(film => {
+      const filmDiv = document.createElement('div');
+      filmDiv.classList.add('cardFilm');
 
-async function preencherCampos(){
-
-    const titulo = document.getElementById('h1')
-    
-    const dados = await pegarCep(dadosFilme.value)
-
-    titulo.value = dados.title
-    
-}
+      filmDiv.innerHTML = `
+      <img class="" src="${film.image}">
+      <div class="conteudo desativado">
+        <h2>${film.title}</h2>
+        <p><strong>Diretor:</strong> ${film.director}</p>
+        <p><strong>Ano:</strong> ${film.release_date}</p>
+        <p><strong>Descrição:</strong> ${film.description}</p>
+      </div>
+      `;
+      filmsList.appendChild(filmDiv);
+    });
+  })
+ 

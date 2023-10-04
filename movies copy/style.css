@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inria Sans', sans-serif;
+}
+
+header{
+    width: 100vw;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.conteiner1{
+    width: 40vw;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.conteiner1 .start{
+    display: flex;
+    align-items: end;
+    padding-bottom: 68px;
+    gap: 8px;
+    color: rgb(85, 85, 85);
+}
+.logo{
+    height: 120px;
+}
+.conteiner1 .imgPoeira{
+    position: relative;
+    top: 30px;
+    left: -435px;
+    height: 140px;
+    width: 120px;
+    background-image: url(./img/Poeira.svg);
+    background-size: cover;
+}
+
+.conteiner2{
+    width: 20vw;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.conteiner2 .searchMovies{
+    background-color: #f4f4f4;
+    border-radius: 24px;
+    height: 46px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    padding-left: 2px;
+    color: #6b6b6b;
+}
+.conteiner2 .searchMovies input{
+    border: none;
+    background-color: #f4f4f4;
+    border-radius: 24px;
+    padding: 2px 8px;
+    width: 80%;
+}
+
+.conteiner3{
+    width: 40vw;
+    height: 100%;
+    display: flex;
+    align-items: start;
+    justify-content: end;
+}
+.conteiner3 .imgTotoro{
+    height: 100%;
+    width: 490px;
+    border-radius: 0px 0px 47px 0px;
+}
+
+
+main{
+    height: 55vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section{
+    width: 70%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 28px;
+    font-size: 30px;
+}
+/* .item{
+    width: 300px;
+    height: 450px;
+    background-image: url(./img/image\ 10.svg);
+    background-size: cover;
+    border-radius: 6px;
+    transition: .4s;
+}
+.central{
+    width: 340px;
+    height: 490px;
+}
+.item:hover{
+    transform: scale(1.09);
+    cursor: pointer;
+}
+ */
+
+.bi:hover{
+    transform: scale(1.09);
+    cursor: pointer;
+    color: grey;
+}
+
+#films-list{
+    height: 100%;
+    display: flex;
+    overflow: hidden;
+    gap: 24px;
+}
+.cardFilm{
+    width: 400px;
+    padding: 24px;
+}
+
+.conteudo{
+    width: 330px;
+}
+.cardFilm img{
+     width: 310px;
+     border-radius: 8px;
+}
+
+.desativado{
+    display: none;
+}
