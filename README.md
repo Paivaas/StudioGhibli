@@ -3,14 +3,18 @@
 </svg> </div>
 
 ![Studio Ghibli](https://github.com/Paivaas/StudioGhibli/assets/123731976/981d9012-1b48-47b2-abda-d19359f49973)
+> Bem-vindo ao Studio Ghibli Movie
+Esse projeto criado para fornecer uma expericnia informativa sobre os filmes do studio ghibli, onde os usuario podem descobrir mais sobre suas animações favoritas! Mergulhe na magia criativa deste renomado estúdio japonês.
 
 
-### Base do projeto 
+#### Funcionalidades 
+
+#### Base do projeto 
 - [API: StudioGhibli](https://ghibliapi.vercel.app/)
 - [FIGMA: Desing](https://www.figma.com/file/Wit1TMZuRWQVbYGNrZJ4tp/Page-Studio-Ghibli?type=design&node-id=0-1&mode=design&t=aiSyrRLgLVOVH6vs-0)
   
 
-### Linguagens e ferramentas: 
+#### Linguagens e ferramentas: 
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="33" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
