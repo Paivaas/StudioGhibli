@@ -12,6 +12,7 @@ Esse projeto criado para fornecer uma expericnia informativa sobre os filmes do 
 #### Funcionalidades 
 Lista de Filmes:
 - Apresenta uma lista abrangente de todos os filmes do Studio Ghibli.
+  
 Detalhes do Filme:
 - Fornece informações detalhadas sobre cada filme, incluindo título, diretor, ano de lançamento e sinopse.
 
