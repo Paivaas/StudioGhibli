@@ -3,7 +3,9 @@
 </svg> </div>
 
 ![Studio Ghibli](https://github.com/Paivaas/StudioGhibli/assets/123731976/981d9012-1b48-47b2-abda-d19359f49973)
-> Bem-vindo ao Studio Ghibli Movie
+> Bem-vindo ao Studio Ghibli Movie ✿
+
+
 Esse projeto criado para fornecer uma expericnia informativa sobre os filmes do studio ghibli, onde os usuario podem descobrir mais sobre suas animações favoritas! Mergulhe na magia criativa deste renomado estúdio japonês.
 
 
