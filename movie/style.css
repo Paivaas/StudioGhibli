@@ -4,10 +4,12 @@
     box-sizing: border-box;
     font-family: 'Inria Sans', sans-serif;
 }
-
+body{
+    overflow-x: hidden;
+}
 header{
     width: 100vw;
-    height: 30vh;
+    height: 280px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -74,26 +76,29 @@ header{
     justify-content: end;
 }
 .conteiner3 .imgTotoro{
-    height: 100%;
+    height: 99.5%;
     width: 490px;
     border-radius: 0px 0px 47px 0px;
 }
 
 
 main{
-    height: 55vh;
+    height: 85vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 section{
-    width: 70%;
+    width: 65%;
     height: 100%;
     display: flex;
-    align-items: center;
+    align-items: start;
     justify-content: center;
     gap: 28px;
     font-size: 30px;
+}
+section .bi{
+    padding-top: 210px;
 }
 /* .item{
     width: 300px;
@@ -114,30 +119,53 @@ section{
  */
 
 .bi:hover{
-    transform: scale(1.09);
     cursor: pointer;
-    color: grey;
+    color: rgb(182, 178, 178);
 }
 
 #films-list{
-    height: 100%;
+    height: 830px;
     display: flex;
-    overflow: hidden;
-    gap: 24px;
+    overflow: scroll;
+    gap: 22px;
 }
 .cardFilm{
     width: 400px;
-    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    padding-left: 18px;
 }
 
+
 .conteudo{
-    width: 330px;
+    background-color: #EAE8E8;
+    padding: 28px;
+    border-radius: 24px;
+    width: 416px;
+    font-size: 14px;
+    position: relative;
+    top: -74px;
+    left: 20;
+    z-index: -1;
+    padding-top: 98px;
 }
 .cardFilm img{
      width: 310px;
      border-radius: 8px;
+     cursor: pointer;
+}
+.cardFilm h2{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 6px;
 }
 
 .desativado{
     display: none;
 }
+.ativado{
+    display: block;
+}
+

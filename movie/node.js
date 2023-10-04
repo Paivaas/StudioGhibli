@@ -1,11 +1,13 @@
 const url = 'https://ghibliapi.vercel.app';
 
+let idAtual = 'MyNeighborTotoro'
+
+
 const filmsBusca = '/films';
 
 const filmsList = document.getElementById('films-list');
 
-fetch(url + filmsBusca)
-  .then(response => {
+fetch(url + filmsBusca).then(response => {
     return response.json();
   })
   .then(films => {
@@ -13,9 +15,11 @@ fetch(url + filmsBusca)
       const filmDiv = document.createElement('div');
       filmDiv.classList.add('cardFilm');
 
+      var idfilme = film.title.replace(/\s/g, "")
+
       filmDiv.innerHTML = `
-      <img class="" src="${film.image}">
-      <div class="conteudo desativado">
+      <img onclick="aparecer()" src="${film.image}">
+      <div id="${idfilme}" class="conteudo desativado">
         <h2>${film.title}</h2>
         <p><strong>Diretor:</strong> ${film.director}</p>
         <p><strong>Ano:</strong> ${film.release_date}</p>
@@ -25,4 +29,11 @@ fetch(url + filmsBusca)
       filmsList.appendChild(filmDiv);
     });
   })
- 
+
+
+
+  function aparecer (){
+    const conteudo = document.getElementById(idAtual)
+    conteudo.classList.toggle('ativado')
+
+  }
