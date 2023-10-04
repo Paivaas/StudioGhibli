@@ -25,6 +25,9 @@ Esse projeto foi criado para fornecer uma expericnia informativa sobre os filmes
 <code><img height="33" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
 <code><img height="33" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="33" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"></code>
+<code><img height="33" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
 
 <details><summary>Check-List - Projeto final:</summary> 
   <ul> 
