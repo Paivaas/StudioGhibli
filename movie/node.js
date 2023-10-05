@@ -1,6 +1,6 @@
 const url = 'https://ghibliapi.vercel.app';
 
-let idAtual = 'MyNeighborTotoro'
+let id
 
 
 const filmsBusca = '/films';
@@ -18,7 +18,7 @@ fetch(url + filmsBusca).then(response => {
       var idfilme = film.title.replace(/\s/g, "")
 
       filmDiv.innerHTML = `
-      <img onclick="aparecer()" src="${film.image}">
+      <img onclick="aparecer(${idfilme})" src="${film.image}">
       <div id="${idfilme}" class="conteudo desativado">
         <h2>${film.title}</h2>
         <p><strong>Diretor:</strong> ${film.director}</p>
@@ -32,8 +32,7 @@ fetch(url + filmsBusca).then(response => {
 
 
 
-  function aparecer (){
-    const conteudo = document.getElementById(idAtual)
-    conteudo.classList.toggle('ativado')
+  function aparecer (id){
+   id.classList.toggle('ativado')
 
   }
