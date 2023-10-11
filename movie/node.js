@@ -24,7 +24,7 @@ fetch(url + filmsBusca).then(response => {
         <h2>${film.title}</h2>
         <p><strong>Diretor:</strong> ${film.director}</p>
         <p><strong>Ano:</strong> ${film.release_date}</p>
-        <p><strong>Descrição:</strong> ${film.description}</p>
+        <p class= "descricao"><strong>Descrição:</strong> ${film.description}</p>
       </div>
       `;
       filmsList.appendChild(filmDiv);
