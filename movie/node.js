@@ -1,21 +1,22 @@
+
+// Uso da Api
 const url = 'https://ghibliapi.vercel.app';
 
 let id
-
 
 const filmsBusca = '/films';
 
 const filmsList = document.getElementById('films-list');
 
 fetch(url + filmsBusca).then(response => {
-    return response.json();
+ return response.json();
   })
   .then(films => {
     films.forEach(film => {
       const filmDiv = document.createElement('div');
       filmDiv.classList.add('cardFilm');
 
-      var idfilme = film.title.replace(/\s/g, "")
+      let idfilme = film.title.replace(/[ ']/g, "")
 
       filmDiv.innerHTML = `
       <img onclick="aparecer(${idfilme})" src="${film.image}">
@@ -32,6 +33,7 @@ fetch(url + filmsBusca).then(response => {
 
 
 
+  // Função clique | Aparecer infromações
   function aparecer (id){
    id.classList.toggle('ativado')
 
