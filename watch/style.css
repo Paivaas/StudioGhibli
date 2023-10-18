@@ -147,3 +147,32 @@ footer{
     background-position: 70%;
     color: #EAE8E8;
 }
+
+@media (max-width: 740px){
+    body{
+        display: flex;
+        flex-direction: column;
+        gap: 26px
+    }
+   header{
+    height: 260px;
+    flex-direction: column-reverse;
+   }
+   .conteiner1{
+    width: 100%;
+    height: 70px;
+    padding-left: 24px;
+   }
+   .conteiner3{
+    width: 100%;
+    height: 160px;
+    justify-content: end;
+   }
+   .conteiner3 .imgTotoro{
+    height: 208px;
+    width: 360px;   
+    }
+    .logo{
+        height: 80px;
+    }
+}
