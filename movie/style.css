@@ -111,6 +111,7 @@ section .bi{
     display: flex;
     flex-wrap: wrap;
     transition: .5s;
+    justify-content: center;
 }
 
 .cardFilm{
@@ -150,6 +151,8 @@ section .bi{
     display: flex;
     justify-content: center;
     padding-bottom: 6px;
+    color: rgb(82, 80, 83);
+    height: 80px;
 }
 
 .desativado{
@@ -176,10 +179,6 @@ footer{
 }
 footer p{
     padding-top: 58px;
-}
-
-i{
-    display: none;
 }
 
 .descricao{
@@ -245,22 +244,5 @@ i{
         justify-content: start;
         padding-left: 18px;
     }
-    .conteudo{
-        background-color: #EAE8E8;
-        padding: 28px;
-        border-radius: 24px;
-        width: 366px;
-        font-size: 14px;
-        position: relative;
-        top: -74px;
-        left: 20;
-        z-index: -1;
-        padding-top: 98px;
-    }
-    .conteudo h2{
-        justify-content: start;
-    }
  
- 
-
 }

@@ -4,10 +4,12 @@
     box-sizing: border-box;
     font-family: 'Inria Sans', sans-serif;
 }
-
+body{
+    overflow-x: hidden;
+}
 header{
     width: 100vw;
-    height: 30vh;
+    height: 280px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -74,70 +76,74 @@ header{
     justify-content: end;
 }
 .conteiner3 .imgTotoro{
-    height: 100%;
+    height: 278.6px;
     width: 490px;
     border-radius: 0px 0px 47px 0px;
 }
 
 
 main{
-    height: 55vh;
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.trailers{
+    width: 90%;
+    padding: 20px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+.more{
+    width: 100vw;
+    height: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-section{
-    width: 70%;
-    height: 100%;
+
+.search{
+    background-color: #F5F5F5;
+    color: #2C2C2C;
+    border-radius: 24px;
+    height: 40px;
+    width: 190px;
+    font-size: 18px;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 28px;
-    font-size: 30px;
-}
-/* .item{
-    width: 300px;
-    height: 450px;
-    background-image: url(./img/image\ 10.svg);
-    background-size: cover;
-    border-radius: 6px;
     transition: .4s;
+    text-decoration: none;
+    gap: 12px;
 }
-.central{
-    width: 340px;
-    height: 490px;
-}
-.item:hover{
-    transform: scale(1.09);
-    cursor: pointer;
-}
- */
-
-.bi:hover{
-    transform: scale(1.09);
-    cursor: pointer;
-    color: grey;
+.search p{
+    padding-top: 12px;
 }
 
-#films-list{
-    height: 100%;
-    display: flex;
-    overflow: hidden;
-    gap: 24px;
+.search:hover{
+    box-shadow: 4px 6px rgb(178, 230, 173);
+    transform: scale(1.07);
+    color: #F5F5F5;
+    border: 2px solid #F5F5F5;
+    background-color:rgb(0, 0, 0, .0);
+    cursor: pointer;
 }
-.cardFilm{
+iframe{
     width: 400px;
-    padding: 24px;
+    height: 230px;
 }
 
-.conteudo{
-    width: 330px;
-}
-.cardFilm img{
-     width: 310px;
-     border-radius: 8px;
-}
-
-.desativado{
-    display: none;
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-image: url(./img/BackgroundFooter.svg);
+    background-size: cover;
+    background-position: 70%;
+    color: #EAE8E8;
 }
