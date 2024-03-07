@@ -33,8 +33,6 @@ Esse projeto foi criado para fornecer uma expericnia informativa sobre os filmes
   <ul> 
     <li>[x] Page 1 - Landing Page.</li>
     <li>[x] Page 2 - Movies..</li>
-    <li>[ ] Page 2 - Carrossel </li>
-    <li>[ ] Page 3 - Characters.</li>
     <li>[ ] API.</li>
     <li>[ ] Responsividade.</li>
     <li>[ ] Documentação README.md.</li>
